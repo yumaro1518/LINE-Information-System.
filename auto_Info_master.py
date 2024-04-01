@@ -47,6 +47,7 @@ def main():
         for website_url in WEBSITES:
             check_web_page_for_updates(website_url)
         # 任意の間隔でウェブサイトをチェックするための待機時間
+        # 秒数指定なのでtime.sleep(600)は600s = 10m
         time.sleep(600)
 
 if __name__ == "__main__":
