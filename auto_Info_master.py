@@ -7,12 +7,6 @@ LINE_NOTIFY_TOKEN = '2Xmk5BTy4dlsxQBjRlVRUUXCQPZqDlN6BYE9iV3PSNo'
 
 # 監視対象のウェブサイトのURLリスト
 WEBSITES = [
-    'https://kamigame.jp/bluearchive/index.html',
-    'https://gamewith.jp/nikke/',
-    'https://akiba-souken.com/article/anime/',
-    'https://bluearchive.jp/news/newsJump',
-    'https://1kuji.com/',
-    'https://pjsekai.sega.jp/',
     'https://it-chiba.com/nyushi/enrollment/',
     'https://www.cit-s.com/textbook/',
 ]
